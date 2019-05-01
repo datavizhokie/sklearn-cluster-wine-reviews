@@ -6,3 +6,5 @@ Using wine review data from Kaggle, I subsetted to reviews having points 95 or h
 used for Multi-Dimensional-Scaling before visualization.  Sklearn k-means is used for clustering based on the tfidf_matrix.
 
 ![alt text](https://raw.githubusercontent.com/datavizhokie/sklearn-cluster-wine-reviews/blob/master/wine_3_clusters.png)
+
+[[https://github.com/datavizhokie/sklearn-cluster-wine-reviews/blob/master/wine_3_clusters.png|alt=3clusters]]
